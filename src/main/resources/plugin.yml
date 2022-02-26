@@ -37,6 +37,7 @@ permissions:
     default: op
   vanillacore.bypass.commandspy:
     description: Bypasses this players commands being sent to command spies
+    default: op
   vanillacore.bypass.move:
     description: Bypass having to move to execute commands & chat
     default: op
