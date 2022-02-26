@@ -3,11 +3,11 @@ Example Chat Plugin created for VanillaRealms :)
 
 ## Commands & Permissions
 #### Commands
-/message
-/reply
-/broadcast
-/commandspy
-/socialspy
+- /message (default)
+- /reply (default)
+- /broadcast (vanillacore.broadcast)
+- /commandspy (vanillacore.commandspy)
+- /socialspy (vanillacore.socialspy)
 
 #### Permissions (From plugin.yml):
 permissions:
