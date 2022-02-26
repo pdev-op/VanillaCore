@@ -1,0 +1,18 @@
+#  _  _   __   __ _  __  __    __     __    ___  __  ____  ____ 
+# / )( \ / _\ (  ( \(  )(  )  (  )   / _\  / __)/  \(  _ \(  __)
+# \ \/ //    \/    / )( / (_/\/ (_/\/    \( (__(  O ))   / ) _) 
+#  \__/ \_/\_/\_)__)(__)\____/\____/\_/\_/ \___)\__/(__\_)(____)
+# 
+#                     VanillaCore by pdev
+
+# MESSAGES
+prefix: "&e&lCore &r&8| &7"
+spy-prefix: "&#00eb76&l&oSpy &r&8| &7"
+message-sender: "&6&lPM &r&dYou &5→ &d%player% &5» &#ffcbff"
+message-target: "&6&lPM &r&d%player% &5→ &dYou &5» &#ffcbff"
+message-spy: "&#00eb76&l&oSpy &r&8| &r&d%player &5→ &d%target% &5» &#ffcbff"
+broadcast: "&#fffd38&lBroadcast &r&#ff8511» &r&#fffeae%message%"
+
+# JOIN MESSAGES
+join-format: '&2[&a&l+&r&2] &7%player%'
+quit-format: '&4[&c&l-&r&4] &7%player%'
